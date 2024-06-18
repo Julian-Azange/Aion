@@ -17,10 +17,10 @@
       // === logo change
       if (ud_header.classList.contains("sticky")) {
         document.querySelector(".header-logo").src =
-          "assets/images/LOGO_AION_VARIATION_DARK.PNG"
+          "assets/images/LOGO_AION_VARIATION_DARK.png"
       } else {
         document.querySelector(".header-logo").src =
-          "assets/images/LOGO_AION_VARIATION_WHITE.PNG"
+          "assets/images/LOGO_AION_VARIATION_WHITE.png"
       }
     }
 
@@ -29,7 +29,7 @@
         // === logo change
         if (ud_header.classList.contains("sticky")) {
           document.querySelector(".header-logo").src =
-            "assets/images/LOGO_AION_VARIATION_WHITE.PNG"
+            "assets/images/LOGO_AION_VARIATION_WHITE.png"
         } 
       }
     }
